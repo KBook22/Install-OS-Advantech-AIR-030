@@ -64,7 +64,7 @@ sudo reboot --force forced-recovery
 
 **วิธีที่ 2** — กรณีเข้า OS ไม่ได้: เปิดฝาหลังเครื่อง แล้วเลื่อน **Switch 2** ของ `RESET_RECOVERY_1` ขึ้นไปยังตำแหน่งที่ 4 (ON)
 
-![RESET_RECOVERY_1 Switch](./1777583654686_image.png)
+![RESET_RECOVERY_1 Switch](./Reset-Switch-air030.jpg)
 
 จากภาพจะเห็นว่าปุ่ม 1 อยู่ด้านล่างถูกต้องแล้ว แต่ปุ่ม 2 ควรต้องเลื่อนขึ้นไปที่ตำแหน่งเลข 4 เพื่อให้ Boot เข้า Recovery Mode ได้
 
